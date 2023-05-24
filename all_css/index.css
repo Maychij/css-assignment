@@ -6,4 +6,11 @@
     background-color: black;
     color: white;
   }
-  
+  h1{
+    display: block;
+    font-size: 2rem;
+  }
+  ul{
+    color: blue;
+    display: block;
+  }
