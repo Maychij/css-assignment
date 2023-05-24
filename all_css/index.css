@@ -10,7 +10,12 @@
     display: block;
     font-size: 2rem;
   }
+  #Text{
+    color: white;
+  }
+  p{
+    display: block;
+  }
   ul{
-    color: blue;
     display: block;
   }
